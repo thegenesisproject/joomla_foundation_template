@@ -1,0 +1,38 @@
+====================================================
+NEW ATOMIC
+
+A joomla 1.7 responsive template
+====================================================
+
+A responsive HTML5 redesign for the default Joomla 1.7 Atomic template.
+
+Meridian Softech uses this as the starting point for all its Joomla templates.
+Finally, responsive websites (not just web apps) can become mainstream! Thank you ( http://foundation.zurb.com )
+
+More docs about this template at http://meridiansoftech.net/index.php/blog/new-atomic
+
+
+----------------------------------------------------
+COMPONENTS
+----------------------------------------------------
+1. Foundation CSS Framework
+	Gives it responsiveness and nice stable UI
+
+2. HTML 5
+	The DOM is made up of HTML5 elements
+	
+3. JQuery
+	Everyone's favourite javascript framework
+
+4. Open Sans Web Font
+	Imported with @font-face
+
+5. Drop Down Menu
+	A 1-level drop down menu
+
+
+----------------------------------------------------
+INSTALLATION
+----------------------------------------------------
+Typical of Joomla! extensions , installation is easy, but there may be a bit more to it...
+For installation instructions, visit http://meridiansoftech.net/index.php/blog/new-atomic
