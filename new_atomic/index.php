@@ -137,7 +137,7 @@ $app = JFactory::getApplication();
                             <!-- BOTTOM LEFT MODULE -->
                             <?php if($this->countModules('newatomic-bottomleft')) : ?>
                             <div class="six columns">
-                                <jdoc:include type="modules" name="newatomic-bottomleft" style="bottommodule" />
+                                <jdoc:include type="modules" name="newatomic-bottomleft" style="xhtml" />
                             </div>
                             <?php endif; ?>
                             <!-- END BOTTOM LEFT MODULE -->
@@ -145,7 +145,7 @@ $app = JFactory::getApplication();
                             <!-- BOTTOM MIDDLE MODULE -->
                             <?php if($this->countModules('newatomic-bottommiddle')) : ?>
                             <div class="six columns">
-                                <jdoc:include type="modules" name="newatomic-bottommiddle" style="bottommodule" />
+                                <jdoc:include type="modules" name="newatomic-bottommiddle" style="xhtml" />
                             </div>
                             <?php endif; ?>
                             <!-- END BOTTOM MIDDLE MODULE -->
@@ -158,7 +158,7 @@ $app = JFactory::getApplication();
                     <!-- SIDEBAR RIGHT MODULE -->
                     <?php if($this->countModules('newatomic-sidebar')) : ?>
                     <aside class="four columns">
-                        <jdoc:include type="modules" name="newatomic-sidebar" style="sidebar" />
+                        <jdoc:include type="modules" name="newatomic-sidebar" style="xhtml" />
                     </aside>
                     <?php endif; ?>
                     <!-- END SIDEBAR RIGHT MODULE -->
